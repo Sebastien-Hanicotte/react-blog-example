@@ -1,3 +1,6 @@
+[![CircleCI](https://circleci.com/gh/Sebastien-Hanicotte/react-blog-example.svg?style=svg)](https://circleci.com/gh/Sebastien-Hanicotte/react-blog-example)
+
+
 # react-blog-example
 
 A React blog example (see [demo on CodeSandbox](https://codesandbox.io/s/x218ro09vq)).
